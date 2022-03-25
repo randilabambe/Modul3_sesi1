@@ -1,5 +1,6 @@
 import './App.css';
 import data from './berkas/berkas.js'
+import { AlbumImage, AlbumDesc, AlbumName, ButtonUrl } from './component/index.js';
 
 function App() {
   return (
