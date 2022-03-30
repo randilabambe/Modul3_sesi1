@@ -1,5 +1,5 @@
-import './app.css'
-import data from '../berkas/data.js'
+import './App.css'
+import data from '../component/data.js'
 import { GiPlayButton, GiPreviousButton, GiNextButton } from "react-icons/gi";
 
 const TrackAlbums = ({ name, album, images, songTitle, artist }) => (
